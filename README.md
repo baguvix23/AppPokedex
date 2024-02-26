@@ -1,3 +1,3 @@
 # AppPokedex
 
-!image[./assets/images/screen.png]
+!image[../assets/images/screen.png]
